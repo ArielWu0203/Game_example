@@ -1,0 +1,25 @@
+{
+  "name": "game_example",
+  "version": "1.0.0",
+  "description": "phaser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielWu0203/Game_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielWu0203/Game_example/issues"
+  },
+  "homepage": "https://github.com/ArielWu0203/Game_example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "phaser": "^3.24.1",
+    "pug": "^3.0.0"
+  }
+}
