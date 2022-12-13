@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ArielWu0203/Game_example#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "phaser": "^3.24.1",
     "pug": "^3.0.0"
   }
